@@ -46,7 +46,6 @@ Vuex에 선언한 속성들을 뷰 컴포넌트에 더 쉽게 연결을 도와�
 헬퍼를 사용하고 싶은 vue 파일에서 아래 코드 작성 
 ```
 import { mapState, mapGetters, mapMutations, mapActions } from 'vuex'
-
 ```
 ### mapState, mapGetter 사용법
 ```
